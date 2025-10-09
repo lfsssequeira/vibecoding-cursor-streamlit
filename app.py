@@ -1,6 +1,8 @@
 import streamlit as st
 import random
 
+# git commit test
+
 # Set the page title
 st.set_page_config(page_title="Welcome", page_icon="🚀")
 
