@@ -1,21 +1,13 @@
-# Python Virtual Environment
-.venv/
-venv/
-ENV/
-env/
+# Secrets and sensitive files
+.streamlit/secrets.toml
+.env
+*.env
 
-# Python Cache
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
-
-# Environment Variables & Secrets
-.env
-.env.*
-!.env.example
-
-# Distribution / Packaging
 .Python
 build/
 develop-eggs/
@@ -33,22 +25,23 @@ wheels/
 .installed.cfg
 *.egg
 
-# IDEs
-.vscode/*
-!.vscode/settings.json
-!.vscode/terminal-init.sh
-!.vscode/terminal-init.ps1
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
 .idea/
 *.swp
 *.swo
-*~
 
 # OS
 .DS_Store
 Thumbs.db
 
-# Testing
-.pytest_cache/
-.coverage
-htmlcov/
+# Streamlit
+.streamlit/
 
+# Logs
+*.log

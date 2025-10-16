@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Planear piquenique familiar do fim de semana",
+    "description": "Pesquisar parques, preparar lanches e organizar jogos ao ar livre",
+    "responsible": "Mãe",
+    "priority": "High",
+    "status": "In Progress",
+    "created_at": "2025-01-15T10:00:00"
+  },
+  {
+    "id": 2,
+    "title": "Organizar o quarto dos brinquedos das crianças",
+    "description": "Separar brinquedos, doar itens não utilizados e criar sistema de arrumação",
+    "responsible": "Pai",
+    "priority": "Medium",
+    "status": "In Progress",
+    "created_at": "2025-01-14T15:30:00"
+  },
+  {
+    "id": 3,
+    "title": "Compras de supermercado para a semana",
+    "description": "Comprar ingredientes para refeições familiares e lanches",
+    "responsible": "Mãe",
+    "priority": "High",
+    "status": "Done",
+    "created_at": "2025-01-13T09:00:00"
+  },
+  {
+    "id": 4,
+    "title": "Preparar noite de cinema familiar",
+    "description": "Escolher filme, preparar pipocas e arrumar lugares confortáveis",
+    "responsible": "Crianças",
+    "priority": "Low",
+    "status": "Done",
+    "created_at": "2025-01-12T19:00:00"
+  },
+  {
+    "id": 5,
+    "title": "Limpar e organizar a garagem",
+    "description": "Separar ferramentas, organizar armazenamento e criar espaço de trabalho",
+    "responsible": "Pai",
+    "priority": "Medium",
+    "status": "Done",
+    "created_at": "2025-01-11T14:00:00"
+  },
+  {
+    "id": 6,
+    "title": "Preparar álbum de fotografias da família",
+    "description": "Imprimir fotos das últimas férias e organizar no álbum",
+    "responsible": "Mãe",
+    "priority": "Low",
+    "status": "Done",
+    "created_at": "2025-01-10T16:45:00"
+  }
+]

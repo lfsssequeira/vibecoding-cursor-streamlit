@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Plan weekend family picnic",
+    "description": "Research parks, pack snacks, and organize outdoor games",
+    "responsible": "Mom",
+    "priority": "High",
+    "status": "In Progress",
+    "created_at": "2025-01-15T10:00:00"
+  },
+  {
+    "id": 2,
+    "title": "Organize kids' toy room",
+    "description": "Sort toys, donate unused items, and create storage system",
+    "responsible": "Dad",
+    "priority": "Medium",
+    "status": "In Progress",
+    "created_at": "2025-01-14T15:30:00"
+  },
+  {
+    "id": 3,
+    "title": "Grocery shopping for the week",
+    "description": "Buy ingredients for family meals and snacks",
+    "responsible": "Mom",
+    "priority": "High",
+    "status": "Done",
+    "created_at": "2025-01-13T09:00:00"
+  },
+  {
+    "id": 4,
+    "title": "Family movie night setup",
+    "description": "Choose movie, prepare popcorn, and arrange cozy seating",
+    "responsible": "Kids",
+    "priority": "Low",
+    "status": "Done",
+    "created_at": "2025-01-12T19:00:00"
+  },
+  {
+    "id": 5,
+    "title": "Clean and organize garage",
+    "description": "Sort tools, organize storage, and create workspace",
+    "responsible": "Dad",
+    "priority": "Medium",
+    "status": "Done",
+    "created_at": "2025-01-11T14:00:00"
+  },
+  {
+    "id": 6,
+    "title": "Prepare family photo album",
+    "description": "Print photos from last vacation and organize in album",
+    "responsible": "Mom",
+    "priority": "Low",
+    "status": "Done",
+    "created_at": "2025-01-10T16:45:00"
+  }
+]
