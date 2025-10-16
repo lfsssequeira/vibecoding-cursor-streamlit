@@ -6,3 +6,5 @@ requests
 beautifulsoup4
 selenium
 streamlit
+app-store-scraper
+google-play-scraper
